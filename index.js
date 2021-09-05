@@ -1,8 +1,8 @@
 // Settings
-const yourlsURL = "https://yoursite.com"; // your YOURLS site URL, including subdirectory if it's in one
-const yourlsSECRET = "yourSecretCode"; // find this on /admin/tools.php
-const discordTOKEN = "yourDisordToken"; // find this on your Discord application's page
-const discordSTATUS = "Shortening your URLs"; // the bot's status
+const yourlsURL = "lillebror420.dk"; // your YOURLS site URL, including subdirectory if it's in one
+const yourlsSECRET = "1eaad593e3"; // find this on /admin/tools.php
+const discordTOKEN = "NjQ3MjAwNTMxODY5MDczNDUx.XdcOdw.-aYvGtasrvC_FUI9Oya34c0iCik"; // find this on your Discord application's page
+const discordSTATUS = "Fjerner klamme URLs"; // the bot's status
 
 // Don't touch this unless you know what to do
 const yourls = require("yourls");

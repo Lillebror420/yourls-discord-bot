@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.1.0",
+    "valid-url": "^1.0.9",
+    "yourls": "^1.0.2"
+  }
+}
